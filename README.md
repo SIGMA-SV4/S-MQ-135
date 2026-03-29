@@ -47,7 +47,7 @@ El **MQ-135** es un sensor electroquímico de calidad del aire basado en SnO₂ 
 
 ## Diagrama de conexión
 
-![Diagrama de conexión MQ-135](https://microcontrollerslab.com/wp-content/uploads/2022/06/MQ-135-gas-sensor-with-Arduino-schematic-diagram.jpg)
+![Diagrama de conexión MQ-135](https://imgur.com/59eGOsv.png)
 
 > La imagen muestra la conexión general del módulo MQ-135. Para este proyecto los pines de datos van a los **GPIO 23 (digital) y GPIO 34 (analógico)** del ESP32.
 
